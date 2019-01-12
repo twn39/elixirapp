@@ -17,6 +17,7 @@ defmodule App do
   end
 end
 
+
 defmodule App.CLI do
   def main(_args) do
     App.start()
